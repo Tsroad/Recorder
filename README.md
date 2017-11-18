@@ -1,0 +1,2 @@
+# Recorder
+Simplify the recorder
